@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/638544247742963827/fea5c5f0c738450693bdaf9b86657934/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '638544247742963827'
+lifecycle_stage: active
+run_id: fea5c5f0c738450693bdaf9b86657934
+run_name: wistful-yak-216
+run_uuid: fea5c5f0c738450693bdaf9b86657934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748058204560
+status: 1
+tags: []
+user_id: codespace

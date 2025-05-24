@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/638544247742963827/66153f2ad4f848e3847718f90b3334d5/artifacts
+end_time: 1748058139274
+entry_point_name: ''
+experiment_id: '638544247742963827'
+lifecycle_stage: active
+run_id: 66153f2ad4f848e3847718f90b3334d5
+run_name: judicious-rat-870
+run_uuid: 66153f2ad4f848e3847718f90b3334d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748058132562
+status: 4
+tags: []
+user_id: codespace

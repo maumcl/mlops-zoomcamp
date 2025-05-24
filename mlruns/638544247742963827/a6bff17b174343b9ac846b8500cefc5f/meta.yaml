@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/638544247742963827/a6bff17b174343b9ac846b8500cefc5f/artifacts
+end_time: 1748058269408
+entry_point_name: ''
+experiment_id: '638544247742963827'
+lifecycle_stage: active
+run_id: a6bff17b174343b9ac846b8500cefc5f
+run_name: debonair-calf-707
+run_uuid: a6bff17b174343b9ac846b8500cefc5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748058234302
+status: 4
+tags: []
+user_id: codespace
