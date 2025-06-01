@@ -1,5 +1,5 @@
 
-# 🚀 MLOps Zoomcamp – DataTalksClub
+# MLOps Zoomcamp – DataTalksClub
 
 > ⚠️ **Project paused.** This repository reflects my progress in the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) until week 3.  
 > I decided to shift my focus towards **Data Engineering and Cloud Analytics**.  
