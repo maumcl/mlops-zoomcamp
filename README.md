@@ -1,6 +1,7 @@
+
 # 🚀 MLOps Zoomcamp – DataTalksClub
 
-> ⚠️ **Project paused.** This repository reflects my progress in the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) until week 4.  
+> ⚠️ **Project paused.** This repository reflects my progress in the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) until week 3.  
 > I decided to shift my focus towards **Data Engineering and Cloud Analytics**.  
 > This repo remains available as a record of my learning journey.
 
@@ -22,10 +23,6 @@
   - Building and running containers with **Docker**
   - CI/CD basics with **GitHub Actions**
 
-- **Week 4 – Workflow Orchestration**
-  - Pipelines orchestration with **Apache Airflow**
-  - Task automation for ingestion, training, and deployment
-
 ---
 
 ## 🔧 Tech Stack
@@ -36,7 +33,6 @@
 - FastAPI
 - Docker
 - GitHub Actions
-- Apache Airflow
 
 ---
 
